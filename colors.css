@@ -69,7 +69,6 @@
     --colorPaletteTealTeal800: #357a7b;    
     --colorPaletteTealTeal700: #42948e;    
     --colorPaletteTealTeal600: #4aa69c;    
-    --colorPaletteTealTeal500: #58c1b2;    
     --colorPaletteTealTeal400: #6addc6;    
     --colorPaletteTealTeal300: #97e7d5;    
     --colorPaletteTealTeal200: #c0f0e6;    
@@ -172,4 +171,5 @@
     --colorSemanticSaleSale50Background: #de638b;    
     --colorSemanticSaleSale30Background: #58c1b2;    
     --colorSemanticSaleSaleColor: #ffffff;    
+    --colorPaletteTealTeal500: var(--colorPaletteYellowYellow500);    
 }
