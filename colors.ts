@@ -133,7 +133,6 @@ const paletteMagentaMagenta0 = "#fcf0fe";
 const semanticPrimaryPrimaryActivebackground = "#453e96";
 const semanticPrimaryPrimaryHoverbackground = "#5a52b4";
 const semanticPrimaryPrimaryHovercolor = "#ffffff";
-const primaryBackground = "#ca62cc";
 const semanticPrimaryPrimaryColor = "#ffffff";
 const semanticTextTextInverse = "#ffffff";
 const semanticTextTextSubtext = "#545e5f";
@@ -308,8 +307,6 @@ export const Colors = {
     semanticPrimaryPrimaryActivebackground,
     semanticPrimaryPrimaryHoverbackground,
     semanticPrimaryPrimaryHovercolor,
-  /** test */
-    primaryBackground,
     semanticPrimaryPrimaryColor,
     semanticTextTextInverse,
     semanticTextTextSubtext,
