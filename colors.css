@@ -139,7 +139,6 @@
     --colorSemanticPrimaryPrimaryActivebackground: #453e96;    
     --colorSemanticPrimaryPrimaryHoverbackground: #5a52b4;    
     --colorSemanticPrimaryPrimaryHovercolor: #ffffff;    
-    --colorSemanticPrimaryPrimaryBackground: #6b62cc;    
     --colorSemanticPrimaryPrimaryColor: #ffffff;    
     --colorSemanticTextTextInverse: #ffffff;    
     --colorSemanticTextTextSubtext: #545e5f;    
@@ -168,8 +167,9 @@
     --colorSemanticPrimaryPrimaryInnactivebackground: #d8d8f6;    
     --colorSemanticPrimaryPrimaryBorder: #6b62cc;    
     --colorSemanticPrimaryHoverinnactivebackground: #c0c2f3;    
-    --colorSemanticSaleSale70Background: #f6be41;    
-    --colorSemanticSaleSale50Background: #de638b;    
-    --colorSemanticSaleSale30Background: #58c1b2;    
-    --colorSemanticSaleSaleColor: #ffffff;    
+    --colorSemanticSaleSale70Background: #ac7d13;    
+    --colorSemanticSaleSale50Background: #b51d4e;    
+    --colorSemanticSaleSale30Background: #5869c1;    
+    --colorSemanticSaleSaleColor: #b7b7b7;    
+    --colorSemanticPrimaryPrimaryBackground: #6b62cc;    
 }
