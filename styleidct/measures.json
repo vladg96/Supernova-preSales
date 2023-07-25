@@ -1,0 +1,17 @@
+{
+  "measure": {
+    "measure-example": {
+      "value": {
+        "measure": {
+          "type": "size",
+          "value": 200
+        },
+        "unit": {
+          "type": "string",
+          "value": "pixels"
+        }
+      },
+      "type": "measure"
+    }
+  }
+}
