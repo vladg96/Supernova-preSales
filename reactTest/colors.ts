@@ -1,4 +1,41 @@
-const paletteGreenGreen1100 = "#0e2a21";
+const newStyle = "#0e2a21";
+const darkBlue = "#9d1d79";
+const semanticPrimaryPrimaryActivebackground = "#453e96";
+const semanticPrimaryPrimaryHoverbackground = "#5a52b4";
+const semanticPrimaryPrimaryHovercolor = "#ffffff";
+const semanticPrimaryPrimaryBackground = "#6b62cc";
+const semanticPrimaryPrimaryColor = "#ffffff";
+const semanticPrimaryPrimaryInnactivebackground = "#d8d8f6";
+const semanticPrimaryPrimaryBorder = "#6b62cc";
+const semanticPrimaryHoverinnactivebackground = "#c0c2f3";
+const semanticTextTextInverse = "#ffffff";
+const semanticTextTextSubtext = "#545e5f";
+const semanticTextTextHeadline = "#293333";
+const semanticTextTextBody = "#384141";
+const semanticErrorErrorColor = "#b6403b";
+const semanticErrorErrorIcon = "#b6403b";
+const semanticErrorErrorBorder = "#ef8674";
+const semanticErrorErrorBackground = "#f8d7d3";
+const semanticWarningWarningColor = "#8b4f1f";
+const semanticWarningWarningIcon = "#ba7506";
+const semanticWarningWarningBorder = "#fad961";
+const semanticWarningWarningBackground = "#fbeed1";
+const semanticSuccessSuccessColor = "#2d6944";
+const semanticSuccessSuccessIcon = "#3c884d";
+const semanticSuccessSuccessBorder = "#8fda75";
+const semanticSuccessSuccessBackground = "#ddf3d9";
+const semanticInfoInfoColor = "#3a79bd";
+const semanticInfoInfoIcon = "#306ca5";
+const semanticInfoInfoBorder = "#6aacef";
+const semanticInfoInfoBackground = "#e0f1fe";
+const semanticOpportunityOpportunityColor = "#357a7b";
+const semanticOpportunityOpportunityIcon = "#357a7b";
+const semanticOpportunityOpportunityBorder = "#6addc6";
+const semanticOpportunityOpportunityBackground = "#d5f6ef";
+const semanticSaleSale70Background = "#ac7d13";
+const semanticSaleSale50Background = "#b51d4e";
+const semanticSaleSale30Background = "#5869c1";
+const semanticSaleSaleColor = "#b7b7b7";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
 const paletteGreenGreen800 = "#3c884d";
@@ -10,6 +47,7 @@ const paletteGreenGreen300 = "#a9e297";
 const paletteGreenGreen200 = "#ccf0c2";
 const paletteGreenGreen100 = "#ddf3d9";
 const paletteGreenGreen0 = "#eef9ec";
+const paletteGreenGreen1100 = "#0e2a21";
 const paletteBlueBlue1100 = "#082036";
 const paletteBlueBlue1000 = "#18395d";
 const paletteBlueBlue900 = "#245685";
@@ -130,47 +168,46 @@ const paletteMagentaMagenta300 = "#e3b1ee";
 const paletteMagentaMagenta200 = "#ecc7f4";
 const paletteMagentaMagenta100 = "#f5e4fa";
 const paletteMagentaMagenta0 = "#fcf0fe";
-const semanticPrimaryPrimaryActivebackground = "#453e96";
-const semanticPrimaryPrimaryHoverbackground = "#5a52b4";
-const semanticPrimaryPrimaryHovercolor = "#ffffff";
-const semanticPrimaryPrimaryColor = "#ffffff";
-const semanticTextTextInverse = "#ffffff";
-const semanticTextTextSubtext = "#545e5f";
-const semanticTextTextHeadline = "#293333";
-const semanticTextTextBody = "#384141";
-const semanticErrorErrorColor = "#b6403b";
-const semanticErrorErrorIcon = "#b6403b";
-const semanticErrorErrorBorder = "#ef8674";
-const semanticErrorErrorBackground = "#f8d7d3";
-const semanticWarningWarningColor = "#8b4f1f";
-const semanticWarningWarningIcon = "#ba7506";
-const semanticWarningWarningBorder = "#fad961";
-const semanticWarningWarningBackground = "#fbeed1";
-const semanticSuccessSuccessColor = "#2d6944";
-const semanticSuccessSuccessIcon = "#3c884d";
-const semanticSuccessSuccessBorder = "#8fda75";
-const semanticSuccessSuccessBackground = "#ddf3d9";
-const semanticInfoInfoColor = "#3a79bd";
-const semanticInfoInfoIcon = "#306ca5";
-const semanticInfoInfoBorder = "#6aacef";
-const semanticInfoInfoBackground = "#e0f1fe";
-const semanticOpportunityOpportunityColor = "#357a7b";
-const semanticOpportunityOpportunityIcon = "#357a7b";
-const semanticOpportunityOpportunityBorder = "#6addc6";
-const semanticOpportunityOpportunityBackground = "#d5f6ef";
-const semanticPrimaryPrimaryInnactivebackground = "#d8d8f6";
-const semanticPrimaryPrimaryBorder = "#6b62cc";
-const semanticPrimaryHoverinnactivebackground = "#c0c2f3";
-const semanticSaleSale70Background = "#ac7d13";
-const semanticSaleSale50Background = "#b51d4e";
-const semanticSaleSale30Background = "#5869c1";
-const semanticSaleSaleColor = "#b7b7b7";
-const semanticPrimaryPrimaryBackground = "#6b62cc";
-const newStyle = "#0e2a21";
-const darkBlue = "#9d1d79";
 
 export const Colors = {
-    paletteGreenGreen1100,
+    newStyle,
+    darkBlue,
+    semanticPrimaryPrimaryActivebackground,
+    semanticPrimaryPrimaryHoverbackground,
+    semanticPrimaryPrimaryHovercolor,
+    semanticPrimaryPrimaryBackground,
+    semanticPrimaryPrimaryColor,
+    semanticPrimaryPrimaryInnactivebackground,
+    semanticPrimaryPrimaryBorder,
+    semanticPrimaryHoverinnactivebackground,
+    semanticTextTextInverse,
+    semanticTextTextSubtext,
+    semanticTextTextHeadline,
+    semanticTextTextBody,
+    semanticErrorErrorColor,
+    semanticErrorErrorIcon,
+    semanticErrorErrorBorder,
+    semanticErrorErrorBackground,
+    semanticWarningWarningColor,
+    semanticWarningWarningIcon,
+    semanticWarningWarningBorder,
+    semanticWarningWarningBackground,
+    semanticSuccessSuccessColor,
+    semanticSuccessSuccessIcon,
+    semanticSuccessSuccessBorder,
+    semanticSuccessSuccessBackground,
+    semanticInfoInfoColor,
+    semanticInfoInfoIcon,
+    semanticInfoInfoBorder,
+    semanticInfoInfoBackground,
+    semanticOpportunityOpportunityColor,
+    semanticOpportunityOpportunityIcon,
+    semanticOpportunityOpportunityBorder,
+    semanticOpportunityOpportunityBackground,
+    semanticSaleSale70Background,
+    semanticSaleSale50Background,
+    semanticSaleSale30Background,
+    semanticSaleSaleColor,
     paletteGreenGreen1000,
     paletteGreenGreen900,
     paletteGreenGreen800,
@@ -182,6 +219,7 @@ export const Colors = {
     paletteGreenGreen200,
     paletteGreenGreen100,
     paletteGreenGreen0,
+    paletteGreenGreen1100,
     paletteBlueBlue1100,
     paletteBlueBlue1000,
     paletteBlueBlue900,
@@ -306,42 +344,4 @@ export const Colors = {
     paletteMagentaMagenta200,
     paletteMagentaMagenta100,
     paletteMagentaMagenta0,
-    semanticPrimaryPrimaryActivebackground,
-    semanticPrimaryPrimaryHoverbackground,
-    semanticPrimaryPrimaryHovercolor,
-    semanticPrimaryPrimaryColor,
-    semanticTextTextInverse,
-    semanticTextTextSubtext,
-    semanticTextTextHeadline,
-    semanticTextTextBody,
-    semanticErrorErrorColor,
-    semanticErrorErrorIcon,
-    semanticErrorErrorBorder,
-    semanticErrorErrorBackground,
-    semanticWarningWarningColor,
-    semanticWarningWarningIcon,
-    semanticWarningWarningBorder,
-    semanticWarningWarningBackground,
-    semanticSuccessSuccessColor,
-    semanticSuccessSuccessIcon,
-    semanticSuccessSuccessBorder,
-    semanticSuccessSuccessBackground,
-    semanticInfoInfoColor,
-    semanticInfoInfoIcon,
-    semanticInfoInfoBorder,
-    semanticInfoInfoBackground,
-    semanticOpportunityOpportunityColor,
-    semanticOpportunityOpportunityIcon,
-    semanticOpportunityOpportunityBorder,
-    semanticOpportunityOpportunityBackground,
-    semanticPrimaryPrimaryInnactivebackground,
-    semanticPrimaryPrimaryBorder,
-    semanticPrimaryHoverinnactivebackground,
-    semanticSaleSale70Background,
-    semanticSaleSale50Background,
-    semanticSaleSale30Background,
-    semanticSaleSaleColor,
-    semanticPrimaryPrimaryBackground,
-    newStyle,
-    darkBlue,
 }

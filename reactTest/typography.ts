@@ -125,31 +125,6 @@ const h5 = {
                         css: "0px"
                        },
          };
-const sale = {
-           fontFamily: "Advent Pro",
-           fontStyle: "normal",
-           fontWeight: 700,
-           fontSize: {
-                      measure: 24,
-                      unit: "Pixels",
-                      css: "24px"
-                     },
-           lineHeight: {
-                          measure: 32,
-                          unit: "Pixels",
-                          css: "32px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 const largeLead = {
            fontFamily: "Advent Pro",
            fontStyle: "normal",
@@ -300,6 +275,31 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
+const sale = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 700,
+           fontSize: {
+                      measure: 24,
+                      unit: "Pixels",
+                      css: "24px"
+                     },
+           lineHeight: {
+                          measure: 32,
+                          unit: "Pixels",
+                          css: "32px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 const impactLabel = {
            fontFamily: "Impact Label",
            fontStyle: "normal",
@@ -348,13 +348,13 @@ export const Typographies = {
       h3,
       h4,
       h5,
-      sale,
       largeLead,
       mediumLead,
       buttonLabel,
       paragraph,
       smallParagraph,
       tinyParagraph,
+      sale,
   /** typewriter font test */
       impactLabel,
   /** importing test */
