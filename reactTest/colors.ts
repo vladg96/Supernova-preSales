@@ -1,5 +1,6 @@
 const newStyle = "#0e2a21";
 const darkBlue = "#9d1d79";
+const testToken = "#ffffff";
 const semanticPrimaryPrimaryActivebackground = "#453e96";
 const semanticPrimaryPrimaryHoverbackground = "#5a52b4";
 const semanticPrimaryPrimaryHovercolor = "#ffffff";
@@ -172,6 +173,7 @@ const paletteMagentaMagenta0 = "#fcf0fe";
 export const Colors = {
     newStyle,
     darkBlue,
+    testToken,
     semanticPrimaryPrimaryActivebackground,
     semanticPrimaryPrimaryHoverbackground,
     semanticPrimaryPrimaryHovercolor,
