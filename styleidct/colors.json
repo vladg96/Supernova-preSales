@@ -725,6 +725,10 @@
     "dark-blue": {
       "value": "#9d1d79ff",
       "type": "color"
+    },
+    "test-token": {
+      "value": "#ffffffff",
+      "type": "color"
     }
   }
 }
