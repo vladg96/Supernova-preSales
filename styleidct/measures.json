@@ -1,17 +1,70 @@
 {
   "measure": {
-    "measure-example": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 200
+    "dimension": {
+      "measure-example": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 200
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
         },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
-        }
+        "type": "measure"
+      }
+    },
+    "opacity": {},
+    "sizing": {},
+    "spacing": {},
+    "font-sizing": {},
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {
+      "radius1": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 4
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
       },
-      "type": "measure"
-    }
+      "radius2": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 58
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "radius3": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 4
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      }
+    },
+    "duration": {},
+    "z-index": {}
   }
 }

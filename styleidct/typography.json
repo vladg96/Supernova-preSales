@@ -11,7 +11,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -83,7 +83,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -155,7 +155,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -227,7 +227,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -299,7 +299,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -371,7 +371,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Bold"
+              "value": "700"
             }
           }
         },
@@ -443,7 +443,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -515,7 +515,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -587,7 +587,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -659,7 +659,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -731,7 +731,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -803,7 +803,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -875,7 +875,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
@@ -935,7 +935,7 @@
             },
             "subfamily": {
               "type": "string",
-              "value": "Regular"
+              "value": "400"
             }
           }
         },
