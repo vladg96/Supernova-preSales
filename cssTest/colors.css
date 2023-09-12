@@ -174,5 +174,5 @@
     --colorSemanticPrimaryPrimaryBackground: #6b62cc;    
     --colorColorNewStyle: #0e2a21;    
     --colorColorDarkBlue: #9d1d79;    
-    --colorColorTestToken: #ffffff;    
+    --colorPaletteTestToken: var(--colorPaletteNeutralNeutral1100);    
 }
