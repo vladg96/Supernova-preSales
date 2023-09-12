@@ -554,6 +554,10 @@
           "value": "#fcf0feff",
           "type": "color"
         }
+      },
+      "test-token": {
+        "value": "{color.palette.neutral.neutral-1100.value}",
+        "type": "color"
       }
     },
     "semantic": {
@@ -724,10 +728,6 @@
     },
     "dark-blue": {
       "value": "#9d1d79ff",
-      "type": "color"
-    },
-    "test-token": {
-      "value": "#ffffffff",
       "type": "color"
     }
   }
