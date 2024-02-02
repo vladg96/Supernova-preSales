@@ -1,3 +1,6 @@
+const darkBlue = "#9d1d79";
+const newStyle = "#0e2a21";
+const token1 = "#ffffff";
 const paletteGreenGreen1100 = "#0e2a21";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
@@ -10,7 +13,7 @@ const paletteGreenGreen300 = "#a9e297";
 const paletteGreenGreen200 = "#ccf0c2";
 const paletteGreenGreen100 = "#ddf3d9";
 const paletteGreenGreen0 = "#eef9ec";
-const paletteBlueBlue1100 = "#082036";
+const paletteBlueBlue1100 = "#00213f";
 const paletteBlueBlue1000 = "#18395d";
 const paletteBlueBlue900 = "#245685";
 const paletteBlueBlue800 = "#306ca5";
@@ -133,7 +136,11 @@ const paletteMagentaMagenta0 = "#fcf0fe";
 const semanticPrimaryPrimaryActivebackground = "#453e96";
 const semanticPrimaryPrimaryHoverbackground = "#5a52b4";
 const semanticPrimaryPrimaryHovercolor = "#ffffff";
+const semanticPrimaryPrimaryBackground = "#6b62cc";
 const semanticPrimaryPrimaryColor = "#ffffff";
+const semanticPrimaryPrimaryInnactivebackground = "#d8d8f6";
+const semanticPrimaryPrimaryBorder = "#6b62cc";
+const semanticPrimaryHoverinnactivebackground = "#c0c2f3";
 const semanticTextTextInverse = "#ffffff";
 const semanticTextTextSubtext = "#545e5f";
 const semanticTextTextHeadline = "#293333";
@@ -158,16 +165,15 @@ const semanticOpportunityOpportunityColor = "#357a7b";
 const semanticOpportunityOpportunityIcon = "#357a7b";
 const semanticOpportunityOpportunityBorder = "#6addc6";
 const semanticOpportunityOpportunityBackground = "#d5f6ef";
-const semanticPrimaryPrimaryInnactivebackground = "#d8d8f6";
-const semanticPrimaryPrimaryBorder = "#6b62cc";
-const semanticPrimaryHoverinnactivebackground = "#c0c2f3";
 const semanticSaleSale70Background = "#ac7d13";
 const semanticSaleSale50Background = "#b51d4e";
 const semanticSaleSale30Background = "#5869c1";
 const semanticSaleSaleColor = "#b7b7b7";
-const semanticPrimaryPrimaryBackground = "#6b62cc";
 
 export const Colors = {
+    darkBlue,
+    newStyle,
+    token1,
     paletteGreenGreen1100,
     paletteGreenGreen1000,
     paletteGreenGreen900,
@@ -307,7 +313,11 @@ export const Colors = {
     semanticPrimaryPrimaryActivebackground,
     semanticPrimaryPrimaryHoverbackground,
     semanticPrimaryPrimaryHovercolor,
+    semanticPrimaryPrimaryBackground,
     semanticPrimaryPrimaryColor,
+    semanticPrimaryPrimaryInnactivebackground,
+    semanticPrimaryPrimaryBorder,
+    semanticPrimaryHoverinnactivebackground,
     semanticTextTextInverse,
     semanticTextTextSubtext,
     semanticTextTextHeadline,
@@ -332,12 +342,8 @@ export const Colors = {
     semanticOpportunityOpportunityIcon,
     semanticOpportunityOpportunityBorder,
     semanticOpportunityOpportunityBackground,
-    semanticPrimaryPrimaryInnactivebackground,
-    semanticPrimaryPrimaryBorder,
-    semanticPrimaryHoverinnactivebackground,
     semanticSaleSale70Background,
     semanticSaleSale50Background,
     semanticSaleSale30Background,
     semanticSaleSaleColor,
-    semanticPrimaryPrimaryBackground,
 }
