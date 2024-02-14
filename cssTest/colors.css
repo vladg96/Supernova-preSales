@@ -228,6 +228,7 @@
     --colorColorOrange200: #fbe5c5;    
     --colorColorOrange500: #cc4d00;    
     --colorColorOrange600: #b53c0a;    
+    --colorColorToken2: #ffffff;    
     --colorForegroundNeutral: var(--colorColorNeutral900);    
     --colorForegroundPrimary: var(--colorColorPrimary600);    
     --colorForegroundCritical: var(--colorColorRed600);    
