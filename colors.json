@@ -1,103 +1,5 @@
 {
   "color": {
-    "border": {
-      "neutral-faded": {
-        "value": "#eceef3ff",
-        "type": "color"
-      },
-      "critical-faded": {
-        "value": "#fbd5d8ff",
-        "type": "color"
-      },
-      "positive-faded": {
-        "value": "#cdedd5ff",
-        "type": "color"
-      },
-      "upgrade-faded": {
-        "value": "#e3dbfaff",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "#dfe2eaff",
-        "type": "color"
-      },
-      "focus": {
-        "value": "#4589ffff",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "{color.neutral.neutral-500.value}",
-        "type": "color"
-      },
-      "primary": {
-        "value": "{color.primary.primary-700.value}",
-        "type": "color"
-      },
-      "primary-faded": {
-        "value": "{color.primary.primary-400.value}",
-        "type": "color"
-      },
-      "critical": {
-        "value": "{color.red.red-600.value}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{color.orange.orange-600.value}",
-        "type": "color"
-      },
-      "warning-faded": {
-        "value": "{color.orange.orange-200.value}",
-        "type": "color"
-      },
-      "positive": {
-        "value": "{color.green.green-600.value}",
-        "type": "color"
-      },
-      "upgrade": {
-        "value": "{color.purple.purple-700.value}",
-        "type": "color"
-      },
-      "focus-faded": {
-        "value": "{color.primary.primary-400.value}",
-        "type": "color"
-      }
-    },
-    "on-background": {
-      "neutral": {
-        "value": "{color.neutral.neutral-900.value}",
-        "type": "color"
-      },
-      "primary": {
-        "value": "{color.white.value}",
-        "type": "color"
-      },
-      "critical": {
-        "value": "{color.white.value}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{color.white.value}",
-        "type": "color"
-      },
-      "positive": {
-        "value": "{color.white.value}",
-        "type": "color"
-      },
-      "upgrade": {
-        "value": "{color.white.value}",
-        "type": "color"
-      }
-    },
-    "persistent": {
-      "black": {
-        "value": "{color.neutral.neutral-900.value}",
-        "type": "color"
-      },
-      "white": {
-        "value": "{color.white.value}",
-        "type": "color"
-      }
-    },
     "decorative": {
       "cyan-foreground": {
         "value": "#0e7490ff",
@@ -497,6 +399,104 @@
       },
       "neutral-900": {
         "value": "#14171fff",
+        "type": "color"
+      }
+    },
+    "border": {
+      "neutral-faded": {
+        "value": "#eceef3ff",
+        "type": "color"
+      },
+      "critical-faded": {
+        "value": "#fbd5d8ff",
+        "type": "color"
+      },
+      "positive-faded": {
+        "value": "#cdedd5ff",
+        "type": "color"
+      },
+      "upgrade-faded": {
+        "value": "#e3dbfaff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#dfe2eaff",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#4589ffff",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{color.neutral.neutral-500.value}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{color.primary.primary-700.value}",
+        "type": "color"
+      },
+      "primary-faded": {
+        "value": "{color.primary.primary-400.value}",
+        "type": "color"
+      },
+      "critical": {
+        "value": "{color.red.red-600.value}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.orange.orange-600.value}",
+        "type": "color"
+      },
+      "warning-faded": {
+        "value": "{color.orange.orange-200.value}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{color.green.green-600.value}",
+        "type": "color"
+      },
+      "upgrade": {
+        "value": "{color.purple.purple-700.value}",
+        "type": "color"
+      },
+      "focus-faded": {
+        "value": "{color.primary.primary-400.value}",
+        "type": "color"
+      }
+    },
+    "on-background": {
+      "neutral": {
+        "value": "{color.neutral.neutral-900.value}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{color.white.value}",
+        "type": "color"
+      },
+      "critical": {
+        "value": "{color.white.value}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.white.value}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{color.white.value}",
+        "type": "color"
+      },
+      "upgrade": {
+        "value": "{color.white.value}",
+        "type": "color"
+      }
+    },
+    "persistent": {
+      "black": {
+        "value": "{color.neutral.neutral-900.value}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{color.white.value}",
         "type": "color"
       }
     },
